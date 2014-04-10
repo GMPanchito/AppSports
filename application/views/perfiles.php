@@ -14,12 +14,11 @@
 <body>
 	
 		<header>
-			<div id="divlogo">
+			
 				<img src="<?=base_url()?>assets/images/sportsapp.png" alt="SportsApp">
 
 			    <div style="display:none;" id="login" class="ui green button">Log-in</div>
-
-			</div>
+			
 			<div id="like" class="fb-like" data-href="https://facebook.com/sportsapp.cd" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
 		</header>
 		<nav>

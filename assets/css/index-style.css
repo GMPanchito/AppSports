@@ -5,17 +5,17 @@
 }
 #divlogo{
 	height: 75px;
-	width: auto;
+	/*width: auto;*/
 
 }
 header{
 	border-top-right-radius: 10px;
 	border-top-left-radius: 10px;
 	height: 75px;
-	width: 950px;
-	margin-left: 196.5px;
+	/*width: 950px;*/
+	/*margin-left: 196.5px;
 	margin-right: 196.5px;
-	margin-top: 15px;
+	margin-top: 15px;*/
 	background-color: #a1cf20;
 	border-bottom: bold;
 }
@@ -26,30 +26,30 @@ header img{
 }
 nav{
 	height: 130;
-	width: 950px;
-	margin-left: 196.5px;
+	/*width: 950px;*/
+	/*margin-left: 196.5px;*/
 }
 #twitter-widget-0{
 	float: left;
 	width: 35%;
-	height: 308px;
+	height: 340px;
 }
 #twitter{
-	height:308px;
+	height:340px;
 }
 article{
-	width: 948px;
+	/*width: 948px;*/
 	height: 340px;
-	margin-left: 196.5px;
+	/*margin-left: 196.5px;*/
 }
 #login{
-	margin-top: -63px;
+/*	margin-top: -63px;
 	margin-left: 590px;
 	float:right;
-	margin-right: 100px;
+	margin-right: 100px;*/
 }
 #like{
-	margin-left: 600px;
+	/*margin-left: 600px;*/
 }
 header iframe{
 	margin-top:-50px;
