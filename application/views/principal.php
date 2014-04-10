@@ -76,7 +76,7 @@
 		  <a class="item">
 		    <i class="trophy icon"></i> Equipos
 		  </a>
-		  <a class="item" href="<?=base_url()?>index.php/perfiles">
+		  <a class="item" href="<?=base_url()?>index.php/perfil">
 		    <i class="users icon"></i> Jugadores
 		  </a>
 		  <a class="item" href="<?=base_url()?>index.php/empresa">
@@ -107,17 +107,17 @@
 	<div class="ui three center aligned column grid">
 		  <div class="column">
 		    <div class="ui segment">
-		      1
+		      Beisbol
 		    </div>
 		  </div>
 		  <div class="column">
 		    <div class="ui segment">
-		      2
+		      Futbol
 		    </div>
 		  </div>
 		  <div class="column">
 		    <div class="ui segment">
-		      3
+		      Basketbol
 		    </div>
 		  </div>
 	</div>

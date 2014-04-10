@@ -1,5 +1,5 @@
 #content{
-	float: left;
+	/*float: left;*/
 	border-radius: 10px;
 
 }
@@ -11,12 +11,12 @@
 header{
 	border-top-right-radius: 10px;
 	border-top-left-radius: 10px;
-	height: 75px;
+	height: 100px;
 	/*width: 950px;*/
 	/*margin-left: 196.5px;
 	margin-right: 196.5px;
 	margin-top: 15px;*/
-	background-color: #a1cf20;
+	background-color: #FFFFFF;
 	border-bottom: bold;
 }
 header img{
@@ -42,28 +42,20 @@ article{
 	height: 340px;
 	/*margin-left: 196.5px;*/
 }
-#login{
-/*	margin-top: -63px;
-	margin-left: 590px;
-	float:right;
-	margin-right: 100px;*/
+section{
+	height:500px;
 }
-#like{
-	/*margin-left: 600px;*/
-}
-header iframe{
-	margin-top:-50px;
-}
+
 #inicio{
 	text-decoration: none;
 }
 #noticias{
-	width: 948px;
-	height: 308px;
-	padding-top: 30px;
+	/*width: 948px;*/
+	height: 350px;
+/*	padding-top: 30px;
 	margin-right: 196.5px;
 	margin-left: 196.5px;
-	margin-top: -58px;
+	margin-top: -58px;*/
 }
 #top10basquet{
 	background-color: green;
